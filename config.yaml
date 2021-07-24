@@ -1,0 +1,16 @@
+login:
+  KEY1: '' # 考生号/准考证号
+  KEY2: '' # 身份证后四位
+
+baiduOcr:
+  APP_ID: ''
+  API_KEY: ''
+  SECRET_KEY: ''
+
+email:
+  HOST: 'smtp.exmail.qq.com'  # 服务器地址
+  PORT: 465  # 端口
+  USER: ''  # 服务器用户名
+  PASSWORD: ''  # 服务器密码
+  TO:
+  - ''  # 收件人

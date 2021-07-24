@@ -1,0 +1,4 @@
+PyExecJS==1.5.1
+selenium==3.141.0
+baidu-aip==2.2.18.0
+pyyaml==5.4.1
